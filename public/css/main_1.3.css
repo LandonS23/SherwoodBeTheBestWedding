@@ -706,6 +706,7 @@ nav ul li a {
 .page-section.rsvp .background {
 	background-image: url('../images/steps3.jpg');
 	background-size: cover;
+	background-position: 40% 0;
 	position: absolute;
 	top: 0;
 	bottom: 0;
