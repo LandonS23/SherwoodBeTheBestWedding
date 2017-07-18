@@ -353,7 +353,7 @@ nav ul li a {
 }
 
 .page-section.home .hero {
-	background-image: url('../images/hero2.jpg');
+	background-image: url('../images/hero3.jpg');
 	background-size: cover;
 	background-position: center center;
 	max-width: 1300px;
@@ -704,9 +704,8 @@ nav ul li a {
 
 }
 .page-section.rsvp .background {
-	background-image: url('../images/steps2.jpg');
+	background-image: url('../images/steps3.jpg');
 	background-size: cover;
-	background-position: 40% 0;
 	position: absolute;
 	top: 0;
 	bottom: 0;
